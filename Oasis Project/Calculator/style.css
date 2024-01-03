@@ -1,0 +1,32 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: url('/Nature.jpg');
+
+  }
+  .button{
+    width:66px;
+    padding: 20px;
+    margin: 0 3px;
+    border:2px solid rgb(8, 107, 61);
+    border-radius:9px;
+    cursor:pointer;
+    background-color: rgb(115, 212, 159);
+
+    
+  }
+  .row{
+    margin:8px 0;
+  }
+  .row input{
+    width:222px;
+    margin:0;
+    padding:10px 38px;
+    border:2px solid rgb(3, 3, 3);
+    border-radius:5px;
+    font-weight: bold;
+  }
+.h1{
+    font-size: large;
+    color: white;
+}
